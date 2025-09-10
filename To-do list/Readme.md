@@ -1,4 +1,4 @@
-# Simple To-Do App
+# To-Do App
 
 A full-stack to-do list application built with a Node.js Express backend, MySQL database, and a simple HTML/CSS/JavaScript frontend. This project demonstrates basic CRUD (Create, Read, Update, Delete) operations.
 
