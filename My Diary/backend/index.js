@@ -23,7 +23,11 @@ app.get('/', (req,res)=>{
     res.status(200).json({message:'Successful'})
 })
 
-app.post('/registerUser',(req,res)={
+// app.post('/registerUser',(req,res)={
+//     res.status(200).json({message: 'User Registered'})
+// })
+
+app.post('/registerUser',(req,res)=>{
     res.status(200).json({message: 'User Registered'})
 })
 
